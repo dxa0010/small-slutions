@@ -109,7 +109,9 @@ canvas {
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
-  background: $white;
+  // background: $white;
+  z-index: 3;
+  cursor: pointer;
   &:before {
     content: '';
     width: 20px;
@@ -118,7 +120,8 @@ canvas {
     right: 2px;
     border: 2px solid $gray;
     top: 2px;
-    background: $white;
+    cursor: pointer;
+    // background: $white;
   }
   &:after {
     content: '';
@@ -128,7 +131,8 @@ canvas {
     position: absolute;
     right: 6px;
     top: 6px;
-    background: $white;
+    cursor: pointer;
+    // background: $white;
   }
   &:hover {
     border-color: $green;
@@ -136,6 +140,9 @@ canvas {
     &:after {
       border-color: $green;
     }
+  }
+  &.active {
+    position: fixed;
   }
 }
 
