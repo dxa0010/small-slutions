@@ -120,7 +120,6 @@ canvas {
     right: 2px;
     border: 2px solid $gray;
     top: 2px;
-    cursor: pointer;
     // background: $white;
   }
   &:after {
@@ -131,7 +130,6 @@ canvas {
     position: absolute;
     right: 6px;
     top: 6px;
-    cursor: pointer;
     // background: $white;
   }
   &:hover {
@@ -141,9 +139,9 @@ canvas {
       border-color: $green;
     }
   }
-  &.active {
-    position: fixed;
-  }
+  // &.active {
+  //   position: fixed;
+  // }
 }
 
 .posts-link,
