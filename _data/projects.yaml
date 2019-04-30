@@ -1,0 +1,29 @@
+- title: 国際学会-AAAI投稿 
+  url: https://github.com/dxa0010/Active_Learning_with_Interpretable_Predictor
+  image: /images/ALwIP_paper.png
+  completed: true
+
+- title: Relect App
+  url: https://play.google.com/store/apps/details?id=dxa0010.app.zubatto&hl=ja
+  image: /images/relect_sample.png
+  completed: true
+
+- title: 英語学習アプリ
+  url: coming_soon
+  image: /images/coming_soon.png
+  completed: false
+
+# - title: Daisy Pelican Theme
+#   url: http://taylantatli.me/Daisy-Pelican-Theme/
+#   image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+#   completed: true
+
+# - title: Block Icon Theme
+#   url: https://github.com/TaylanTatli/Block-Icon-Theme
+#   image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+#   completed: false
+
+# - title: Start Page
+#   url: http://taylantatli.me/StartPage/
+#   image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+#   completed: false
